@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "153963749258",
+    "firebase_url": "https://cresbus-43d59.firebaseio.com",
+    "project_id": "cresbus-43d59",
+    "storage_bucket": "cresbus-43d59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153963749258:android:aa03f5dfbe6556bf",
+        "android_client_info": {
+          "package_name": "com.hvdcreations.cresbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153963749258-69pr63t9nf2v0vo8gtrdogdek1o3a02h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hvdcreations.cresbus",
+            "certificate_hash": "874cc28c6a7278a00c63f405bc9fd6b2298a5508"
+          }
+        },
+        {
+          "client_id": "153963749258-hlt0d0tuo992hqrp4psiunil2ado95h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQL8lgj0KT3SnwFk8WwjTcf-C9plDVW9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153963749258-hlt0d0tuo992hqrp4psiunil2ado95h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153963749258:android:6462e3c6eb5065b1",
+        "android_client_info": {
+          "package_name": "com.hvdcreations.cresbusdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153963749258-t2sine24u3kldbus6a8h8pelf76qv4ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hvdcreations.cresbusdriver",
+            "certificate_hash": "339135ad384d1479005a8a0a368ae73a02254a53"
+          }
+        },
+        {
+          "client_id": "153963749258-1i6ncqh8mg5igka7bjv279j88lguuc1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hvdcreations.cresbusdriver",
+            "certificate_hash": "874cc28c6a7278a00c63f405bc9fd6b2298a5508"
+          }
+        },
+        {
+          "client_id": "153963749258-hlt0d0tuo992hqrp4psiunil2ado95h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQL8lgj0KT3SnwFk8WwjTcf-C9plDVW9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153963749258-hlt0d0tuo992hqrp4psiunil2ado95h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
